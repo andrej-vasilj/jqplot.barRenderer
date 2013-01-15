@@ -1,8 +1,6 @@
 jqplot.barRenderer
 ==================
 
-Modification to the jqplot barRenderer by Andrej Vasilj
-
 Adding error bars to the jqplot bar renderer
 
 USAGE:
